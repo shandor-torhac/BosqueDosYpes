@@ -110,4 +110,8 @@ button {
   .header a {
     font-size: 16px;
   }
+
+  .link-whatsapp {
+    display: none;
+  }
 }
